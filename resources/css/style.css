@@ -1,0 +1,25 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  background-color: white;
+}
+
+body {
+  line-height: 1.4rem;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+
+/* Header */
+
+header {
+  background-image: url("../images/glasses-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 1rem;
+  height: 30rem;
+}
